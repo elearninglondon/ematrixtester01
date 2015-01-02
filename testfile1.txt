@@ -4,3 +4,11 @@ lets try adding some new text and see if we can then se it needs to be added/com
 
 ok we’re gonna add some more text and then commit again to just make sure it all works after i deleted the .git folder in the home directory which i didn’t want!
 
+
+***
+*more stuff to add*
+
+Is this gonna format as md, or just plain ole text?
+
+### no idea
+
