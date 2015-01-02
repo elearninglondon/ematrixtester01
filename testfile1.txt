@@ -1,1 +1,6 @@
 yeah its a test
+
+lets try adding some new text and see if we can then se it needs to be added/committed and then pushed.
+
+ok we’re gonna add some more text and then commit again to just make sure it all works after i deleted the .git folder in the home directory which i didn’t want!
+
