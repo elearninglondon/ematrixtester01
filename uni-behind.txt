@@ -1,0 +1,14 @@
+Universities are always ten years behind the times
+
+When I first got a job at a university I was quite thrilled, and surprised that I deserved such a thing. I was desperate at that time for any job at all, so getting into education seemed great. The reaction of some of my friends though, was quite different. These were professional people who had always taken careers much more seriously than me, so when they said “get ready to go back in time” and “universities are always at least ten years behind the times” I was rather dumbstruck. As it turns out, they could not have been more right.
+
+In my world of web and new media, the approach was distinctly archaic. We taught software that had largely been discontinued (Adobe Director) and didn’t teach a variety of things I thought would be standard: content management systems, Adobe Flash (!), RSS, video/audio compression, or anything about search/metadata/analytics. Appalling. Over the time I taught on degree programmes, I first suggested, then cajoled and finally implored my department to teach more up to date skills instead of boring old ‘waterfall' project management and Dreamweaver. Open Source (CMS, licensing etc), user experience, social media and marketing, search engine optimisation techniques, blogging techniques, Open Graph… the answer was always no, and in fact, the courses we offered for web and multimedia were all discontinued.
+
+I tried setting up a lunchtime course in Drupal implementation, but I was expressly told not to do that as students hadn’t paid for it.
+
+Yesterday I checked out the top twenty job skills being sought on LinkedIn in 2014, and the following skills are either no longer taught or have never been taught on our courses: #5, SEO/SEM Marketing, #14, User Interface Design, #16, Digital and Online Marketing. Admittedly they still teach Game Development (#24) and Animation (#17, Computer Graphics and Animation), though I’m skeptical about what they actually teach in terms of graphics. Other stuff on the list is strictly computer science, and they do teach some of this (networking, security, java, data mining, algorithms etc) which is good, but overall just not good enough.
+
+We live in a cross discipline multi skilled age, and there is no attempt to deal with this - the business and marketing courses never work with the computing or digital media students. All the staff who could have helped with this have been ‘let go’, and I was one of those people. I despair for education, but I’m no longer involved. I’ve been looking for another job for at least a year. 
+
+
+http://www.searchenginejournal.com/linkedin-reveals-top-25-skills-2014-seo-top-5/122615/
